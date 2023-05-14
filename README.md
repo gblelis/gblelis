@@ -1,0 +1,7 @@
+- 👋 Hello, I’m Gabriel Lelis, a.k.a. Lelis
+- 🌎 I'm from Rio de Janeiro, Brazil
+- 🚴‍♂️ My hobby is gaming, but I like football, cycling and basketball too
+- 💼 I’m currently working in the Data Science team for the Brazilian Air Force
+- 📚 I'm studying Python for Data Science and sometimes Game Dev, just for hobby. I wanna learn about Machine Learning and AI in the future
+- ❌ I don't have a portfolio at the moment, but I'm working on it and soon I'll put it here
+- 👋 Welcome to my world!
