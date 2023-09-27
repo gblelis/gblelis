@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Gabriel Lelis, a.k.a. Lelis
+- 👋 Hello, I’m Lelis!
 - 🌎 I'm from Rio de Janeiro, Brazil
 - 🚴‍♂️ My hobby is gaming, but I like football, cycling and basketball too
 - 💼 I’m currently working in the Data Science team for the Brazilian Air Force
