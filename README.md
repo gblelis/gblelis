@@ -2,6 +2,6 @@
 - 🌎 I'm from Rio de Janeiro, Brazil
 - 🚴‍♂️ My hobby is gaming, but I like football, cycling and basketball too
 - 💼 I’m currently working in the Data Science team for the Brazilian Air Force
-- 📚 I'm studying Python for Data Science and sometimes Game Dev, just for hobby. I wanna learn about Machine Learning and AI in the future
+- 📚 I'm studying Python for Data Science. I wanna learn about Machine Learning and AI in the future
 - ❌ I don't have a portfolio at the moment, but I'm working on it and I'll put it here soon
 - 👋 Welcome to my world!
