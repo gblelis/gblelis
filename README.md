@@ -1,7 +1,7 @@
 ## 👋 Hello, I’m Lelis!
 - 👼🏻 I'm from Rio de Janeiro, Brazil
 - 💼 I’m currently working in the AI team for the Brazilian Air Force
-- 📚 I've worked with the Data Science team for 2.5 years, now I am studying and making projects about Machine Learning and AI
+- 📚 I've worked with the Data Science team for 2.5 years, now I am studying and making AI projects
 - 🌎 Welcome to my world!
 
 ## 👥 Follow Me!
